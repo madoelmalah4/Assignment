@@ -18,3 +18,9 @@ prodcutCategory varchar(40),
 productPrice varchar(30),
 productDescribtion varchar(40)
 )
+
+insert into Products values ('Microeave' , 'Kitchen' , 3000 ,'Hight heat quality'),
+('Latptop' , 'Electronic' , 50030 ,'intel core i  5 11th'),
+('Mobile Iphone' , 'Electronic' , 40000 ,'4k camera'),
+('Mobile Samsung' , 'Electronic' , 40000 ,'16gb ram'),
+('Heater' , 'Kitchen' , 20000 ,'140 degree')
